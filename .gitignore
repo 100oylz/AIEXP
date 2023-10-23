@@ -1,4 +1,10 @@
-AutoEncoder/*
-*/checkpoint/*
+
 */.idea/*
+
 */__pycache__/*
+
+*/.vscode/*
+
+*/dataset/*
+
+*.gz
